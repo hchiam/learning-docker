@@ -5,13 +5,13 @@ Learning Docker
 
 `docker images` shows you the images you have locally on your computer.
 
-`docker search ...` shows you search results for docker images found on docker hub.
+`docker search ...` shows you search results (for whatever's in "...") for docker images found on docker hub.
 
-`docker pull ...` downloads a docker image. (Examples: `sudo docker pull bitnami/wordpress:latest` and `sudo docker pull mprasil/dokuwiki`)
+`docker pull ...` downloads a docker image (put a name in "..."). (Examples: `sudo docker pull bitnami/wordpress:latest` and `sudo docker pull mprasil/dokuwiki`)
 
-`docker run ...` to run a docker image.
+`docker run ...` runs a docker image (put a name in "...").
 
-`docker rmi ...` to delete a docker image.
+`docker rmi ...` deletes a docker image (put a name in "...").
 
 More info: https://www.howtoforge.com/tutorial/docker-how-to-use-it-in-a-practical-way-part-3/
 
