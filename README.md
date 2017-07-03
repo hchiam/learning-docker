@@ -33,7 +33,7 @@ Quit in Terminal: CTRL+C
 
 ## part 2 cheatsheet:
 
-```python
+```bash
 docker build -t friendlyname .  # Create image using this directory's Dockerfile
 docker run -p 4000:80 friendlyname  # Run "friendlyname" mapping port 4000 to 80
 docker run -d -p 4000:80 friendlyname         # Same thing, but in detached mode
@@ -54,7 +54,7 @@ docker run username/repository:tag                   # Run image from a registry
 
 ## part 3 cheatsheet:
 
-```python
+```bash
 docker stack ls              # List all running applications on this Docker host
 docker stack deploy -c <composefile> <appname>  # Run the specified Compose file
 docker stack services <appname>       # List the services associated with an app
@@ -64,7 +64,7 @@ docker stack rm <appname>                             # Tear down an application
 
 ## part 4 cheatsheet:
 
-```python
+```bash
 docker-machine create --driver virtualbox myvm1 # Create a VM (Mac, Win7, Linux)
 docker-machine create -d hyperv --hyperv-virtual-switch "myswitch" myvm1 # Win10
 docker-machine env myvm1                # View basic information about your node
