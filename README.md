@@ -1,13 +1,21 @@
 # learning-docker
 Learning Docker
 
-## Cheat sheets:
+# Use Docker - Essential Commands For Me:
 
-https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf
+`docker images` shows you the images you have locally on your computer.
 
-https://github.com/wsargent/docker-cheat-sheet
+`docker search ...` shows you search results for docker images found on docker hub.
 
-## Intro steps:
+`docker pull ...` downloads a docker image. (Examples: `sudo docker pull bitnami/wordpress:latest` and `sudo docker pull mprasil/dokuwiki`)
+
+`docker run ...` to run a docker image.
+
+`docker rmi ...` to delete a docker image.
+
+More info: https://www.howtoforge.com/tutorial/docker-how-to-use-it-in-a-practical-way-part-3/
+
+# Use Docker - Get Started:
 
 https://docs.docker.com/get-started/
 
@@ -81,3 +89,8 @@ docker-machine scp docker-compose.yml myvm1:~     # Copy file to node's home dir
 docker-machine ssh myvm1 "docker stack deploy -c <file> <app>"   # Deploy an app
 ```
 
+# Extra Cheat Sheets:
+
+https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf
+
+https://github.com/wsargent/docker-cheat-sheet
