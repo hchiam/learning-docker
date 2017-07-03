@@ -1,6 +1,14 @@
 # learning-docker
 Learning Docker
 
+## Cheat sheets:
+
+https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf
+
+https://github.com/wsargent/docker-cheat-sheet
+
+## Intro steps:
+
 https://docs.docker.com/get-started/
 
 Create Dockerfile, app.py, and requirements.txt.
