@@ -1,7 +1,7 @@
 # learning-docker
 Learning Docker.
 
-Just on of the things I'm learning. https://github.com/hchiam/learning
+Just one of the things I'm learning. https://github.com/hchiam/learning
 
 # Use Docker - Essential Commands For Me:
 
