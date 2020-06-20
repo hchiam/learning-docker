@@ -1,7 +1,14 @@
-# learning-docker
-Learning Docker.
+# Learning Docker
 
 Just one of the things I'm learning. https://github.com/hchiam/learning
+
+**What's a container?** https://www.docker.com/resources/what-container
+
+**Docker tutorials:** https://www.docker.com/play-with-docker
+
+**When to _not_ use Docker:** https://www.freecodecamp.org/news/7-cases-when-not-to-use-docker
+
+**Docker image for Node.js projects:** https://github.com/nodejs/docker-node
 
 ## Use Docker - Essential Commands For Me:
 
