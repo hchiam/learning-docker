@@ -3,7 +3,7 @@ Learning Docker.
 
 Just one of the things I'm learning. https://github.com/hchiam/learning
 
-# Use Docker - Essential Commands For Me:
+## Use Docker - Essential Commands For Me:
 
 `docker images` shows you the images you have locally on your computer.
 
@@ -17,7 +17,7 @@ Just one of the things I'm learning. https://github.com/hchiam/learning
 
 More info: https://www.howtoforge.com/tutorial/docker-how-to-use-it-in-a-practical-way-part-3/
 
-# Use Docker - Get Started:
+## Use Docker - Get Started:
 
 https://docs.docker.com/get-started/
 
@@ -91,7 +91,7 @@ docker-machine scp docker-compose.yml myvm1:~     # Copy file to node's home dir
 docker-machine ssh myvm1 "docker stack deploy -c <file> <app>"   # Deploy an app
 ```
 
-# Extra Cheat Sheets:
+## Extra Cheat Sheets:
 
 https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf
 
