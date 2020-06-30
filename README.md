@@ -8,6 +8,8 @@ Just one of the things I'm learning. https://github.com/hchiam/learning
 
 **When to _not_ use Docker:** https://www.freecodecamp.org/news/7-cases-when-not-to-use-docker
 
+**Why containers vs native install:** https://www.reddit.com/r/docker/comments/7he752/why_containers_vs_native_install
+
 **Docker image for Node.js projects:** https://github.com/nodejs/docker-node
 
 ## Use Docker - Essential Commands For Me:
