@@ -2,7 +2,11 @@
 
 Just one of the things I'm learning. https://github.com/hchiam/learning
 
+The code works on your machine? Try shipping your machine (as a container)! A container is like a lightweight VM (no separate guest OS), but/and with less isolation than a VM.
+
 **What's a container?** https://www.docker.com/resources/what-container
+
+**Containers vs VMs:** https://www.weave.works/blog/a-practical-guide-to-choosing-between-docker-containers-and-vms
 
 **Docker tutorials:** https://www.docker.com/play-with-docker
 
