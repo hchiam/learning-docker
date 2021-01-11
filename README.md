@@ -4,7 +4,11 @@ Just one of the things I'm learning. https://github.com/hchiam/learning
 
 The code works on your machine? Try shipping your machine (as a container)! A container is like a lightweight VM (no separate guest OS), but/and with less isolation than a VM.
 
-"Docker in 100 seconds": <https://www.youtube.com/watch?v=Gjnup-PuquQ>
+"Docker in 100 seconds": <https://www.youtube.com/watch?v=Gjnup-PuquQ> virtualize the OS only, don't virtualize the hardware like VMs do, so only a single kernel?
+
+- dockerfile = DNA -> image = snapshot of deps including OS -> container = actual software running in real world
+- `docker build -t myapp .` --> dockerfile to image
+- `docker run myapp` --> image to container
 
 **What's a container?** https://www.docker.com/resources/what-container
 
