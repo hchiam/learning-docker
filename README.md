@@ -7,6 +7,7 @@ The code works on your machine? Try shipping your machine (as a container)! A co
 "Docker in 100 seconds": <https://www.youtube.com/watch?v=Gjnup-PuquQ> virtualize the OS only, don't virtualize the hardware like VMs do, so only a single kernel?
 
 - dockerfile = DNA -> image = snapshot of deps including OS -> container = actual software running in real world
+- [(get `docker`)](https://docs.docker.com/get-docker/)
 - `docker build -t myapp .` --> dockerfile to image
 - `docker run myapp` --> image to container
 
