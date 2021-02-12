@@ -4,6 +4,8 @@ Just one of the things I'm learning. https://github.com/hchiam/learning
 
 The code works on your machine? Try shipping your machine (as a container)! A container is like a lightweight VM (no separate guest OS), but/and with less isolation than a VM.
 
+Full beginner's tutorial: <https://www.youtube.com/watch?v=gAkwW2tuIqE>
+
 "Docker in 100 seconds": <https://www.youtube.com/watch?v=Gjnup-PuquQ> virtualize the OS only, don't virtualize the hardware like VMs do, so only a single kernel?
 
 - dockerfile = DNA -> image = snapshot of deps including OS -> container = actual software running in real world
