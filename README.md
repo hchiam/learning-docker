@@ -25,6 +25,10 @@ Full beginner's tutorial: <https://www.youtube.com/watch?v=gAkwW2tuIqE>
 
 **Docker image for Node.js projects:** https://github.com/nodejs/docker-node
 
+## nodejs example:
+
+https://github.com/GoogleCloudPlatform/kubernetes-engine-samples/tree/718e09b69a1224e17930354d6e0eff4e18a5e67f/quickstart/nodejs
+
 ## Use Docker - Essential Commands For Me:
 
 `docker images` shows you the images you have locally on your computer.
