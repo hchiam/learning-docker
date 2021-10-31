@@ -25,6 +25,14 @@ Full beginner's tutorial: <https://www.youtube.com/watch?v=gAkwW2tuIqE>
 
 **Docker image for Node.js projects:** https://github.com/nodejs/docker-node
 
+## More definitions help:
+
+https://okaythis.com/blog/containers-virtualization-and-sandboxes-meaning
+
+- Virtualization > Containerization or Sandboxing
+- Virtualization = simulated hardware (VM = shared hardware but "isolated" OSes)
+- Containerization = simulated "user space" or filesystem (Docker container = shared OS but "isolated" files/folders)
+
 ## nodejs example:
 
 https://github.com/GoogleCloudPlatform/kubernetes-engine-samples/tree/718e09b69a1224e17930354d6e0eff4e18a5e67f/quickstart/nodejs
