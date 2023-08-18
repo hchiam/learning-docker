@@ -15,7 +15,9 @@ Full beginner's tutorial: <https://www.youtube.com/watch?v=gAkwW2tuIqE>
 
 **What's a container?** https://www.docker.com/resources/what-container
 
-**Containers vs VMs:** https://www.weave.works/blog/a-practical-guide-to-choosing-between-docker-containers-and-vms
+**Containers vs VMs:** 
+- https://www.atlassian.com/microservices/cloud-computing/containers-vs-vms
+- https://www.weave.works/blog/a-practical-guide-to-choosing-between-docker-containers-and-vms
 
 **Docker tutorials:** https://www.docker.com/play-with-docker
 
