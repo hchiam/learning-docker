@@ -132,3 +132,7 @@ docker-machine ssh myvm1 "docker stack deploy -c <file> <app>"   # Deploy an app
 https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf
 
 https://github.com/wsargent/docker-cheat-sheet
+
+## After you've learned Docker, learn about Kubernetes
+
+https://github.com/hchiam/learning-kubernetes
