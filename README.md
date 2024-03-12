@@ -13,6 +13,8 @@ Full beginner's tutorial: <https://www.youtube.com/watch?v=gAkwW2tuIqE>
 - `docker build -t myapp .` --> dockerfile to image
 - `docker run myapp` --> image to container
 
+100+ Docker concepts in under 10 minutes: https://www.youtube.com/watch?v=rIrNIzy6U_g (note: Docker Desktop for a GUI).
+
 **What's a container?** https://www.docker.com/resources/what-container
 
 **Containers vs VMs:** 
